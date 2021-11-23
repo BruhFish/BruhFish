@@ -7,7 +7,7 @@ I am skilled with technology and the language that I know the most is discord.py
 
 Skills: Python / HTML
 
-- 🔭 I’m currently working on Siri & SlimeFacts 
+- 🔭 I’m currently working on Siri, Alexa, SlimeFacts and DogeBot
 - 🌱 I’m currently learning Java 
 - 💬 Ask me about anything! 
 - 📫 How to reach me: BruhFish_#6942 
