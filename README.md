@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/supremeofmars" target="blank"><img src="https://img.shields.io/twitter/follow/supremeofmars?logo=twitter&style=for-the-badge" alt="supremeofmars" /></a> </p>
 
-- 🔭 I’m currently working on [Custom 3D Printer](portfolio.bruhfish.space/3d-printer)
+- 🔭 I’m currently working on [Custom 3D Printer](portfolio.bruhfish.space/3d-printer) & [Mars-Bot](https://github.com/BruhFish/Mars-Bot)
 
 - 🌱 I’m currently learning **Swedish / Svenska**
 
