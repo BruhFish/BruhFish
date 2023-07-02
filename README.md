@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **discord & reddit**
 
-- ⚡ Fun fact **idk**
+- ⚡ Fun fact **your father left you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
